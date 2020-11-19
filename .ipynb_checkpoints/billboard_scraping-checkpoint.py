@@ -65,7 +65,7 @@ c = collections.Counter(a)
 
 
 print(a.count('Ariana Grande'))
-# print(b[1],type(b))
+# print(b[1])
 print(c)
 
 
